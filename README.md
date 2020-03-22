@@ -7,7 +7,7 @@ Typescript in React Native
 <h3>a. Typescript supports many types</h3>
 You can use class, interface, type, basic data types (number, string, Date, boolean, array,...).
 <h3>b. Typescript helps us avoid many errors in run-time</h3>
-Example: in javascript you have this function
+Example: in javascript you have this function to plus 5 for a number
 <pre>
 function plusFive(num) {
   return num + 5;
