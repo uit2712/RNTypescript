@@ -10,7 +10,7 @@ You can use class, interface, type, basic data types (number, string, Date, bool
 Example: in javascript you have this function to plus 5 for a number
 <pre>
 function plusFive(num) {
-  return num + 5;
+  return num - 100;
 }
 </pre>
 The exception will be generated if I pass a string instead of a number, and this exception only happens at run-time, too dangerous.
